@@ -1,8 +1,9 @@
-### Hi there 👋 
 
-Click this ->
+
+### :star:About Me 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://gyeong99.tistory.com/)](https://gyeong99.tistory.com/)
 
+<hr/>
 
 <div align=center>
 
@@ -31,9 +32,11 @@ Click this ->
 </div>
 <hr/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwaGyeong)](https://github.com/HwaGyeong/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwaGyeong&count_private=true&show_icons=true?theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwaGyeong)](https://github.com/HwaGyeong/github-readme-stats)
+
 
 
 
